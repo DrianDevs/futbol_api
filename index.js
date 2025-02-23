@@ -9,10 +9,10 @@ app.use(cors());
 
 // Ruta base para verificar que el servidor funciona
 app.get("/", (req, res) => {
-  res.send("API de equipos de fútbol");
+  res.send("Esta es la API de equipos de fútbol");
 });
 
-// Importamos la ruta para los equipos
+// Devolver la lista de todos los equipos
 const equiposRouter = require("./routes/equipos");
 app.use("/api/equipos", equiposRouter);
 

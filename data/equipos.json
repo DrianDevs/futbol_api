@@ -586,5 +586,16 @@
     "Capacidad_estadio": 60260,
     "Ciudad_deportiva": "London Colney",
     "Tel_contacto": "+44 20 7619 5000"
+  },
+  {
+    "id": 50,
+    "Nombre": "RaimonDachi",
+    "Ano_de_fundacion": "2007",
+    "Liga_nacional": "Japon",
+    "Localizacion": "Inazuma",
+    "Num_socios": "10000",
+    "Capacidad_estadio": "5000",
+    "Ciudad_deportiva": "Raimon",
+    "Tel_contacto": "666666666"
   }
 ]
